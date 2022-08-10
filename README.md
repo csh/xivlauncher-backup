@@ -5,7 +5,7 @@ Creates a ZIP file containing all your `pluginConfigs` in `%AppData%\XIVLauncher
 
 ## Automation
 
-You can use the Task Scheduler to automatically run this script periodically, simply [download](https://github.com/csh/xivlauncher-backup/archive/refs/heads/main.zip) the repository, extract the script somewhere you won't accidentally delete it and then setup a task to run the script with the following paramters. 
+You can use the Task Scheduler to automatically run this script periodically, simply [download](https://github.com/csh/xivlauncher-backup/archive/refs/heads/main.zip) the repository, extract the script somewhere you won't accidentally delete it and then setup a task to run the script with the following parameters. 
 
 You can use any schedule that works for you.
 
